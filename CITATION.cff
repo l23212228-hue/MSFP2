@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Práctica 2: Modelado y control del sistema cardiovascular
+  mediante el modelo Windkessel
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Mariant
+    family-names: Reyes Zamudio
+    email: l23212228@tijuana.tecnm.mx
+    name-particle: MARIANT
+    affiliation: TecNM / IT Tijuana
+repository-code: 'https://github.com/l23212228-hue/MSFP2'
+keywords:
+  - Circuito RLC
+  - Control PID
+  - Modelo Windkessel
+  - Sistema cardiovascular
+  - Hemodinámica
+  - Simulaciones numéricas.
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-10-20'
