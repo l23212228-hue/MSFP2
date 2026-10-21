@@ -50,14 +50,15 @@ Las diferencias hemodinámicas entre los pacientes se modelan variando únicamen
 Palabras clave: Circuito RLC; Control PID; Modelo Windkessel; Sistema cardiovascular; Hemodinámica; Simulaciones numéricas.
 
 ## Lista de archivos incluidos en el repositorio
-1. Cuaderno computacional de MATLAB [`.mlx` y `.pdf`].
-2. Modelo de Simulink y Simscape Electrical [`.slx`].
-3. Código de verificación en Python / Visual Studio Code [`.py`].
-4. Diagrama biológico del sistema cardiovascular [`.png` / `.pdf`].
-5. Capturas y tablas con los parámetros de sintonización de los controladores PID.
-6. Figuras comparativas de lazo abierto y lazo cerrado en MATLAB y Python [formatos `.pdf`].
-7. Diagrama en Biorender
-8. Archivo de citación bibliográfica [`CITATION.cff`].
+1. Análisis matemático
+2. Cuaderno computacional de MATLAB [`.mlx` y `.pdf`].
+3. Modelo de Simulink [`.slx`].
+4. Código de verificación en Python / Visual Studio Code [`.py`].
+5. Diagrama biológico del sistema cardiovascular [`.png`].
+6. Capturas y tablas con los parámetros de sintonización de los controladores PID para hipotenso e hipertenso.
+7. Figuras comparativas de lazo abierto y lazo cerrado en MATLAB y Python [formatos `.pdf`].
+8. Señal utilizada para simulaciones[formatos `.xlsx`].
+9. Archivo de citación bibliográfica [`CITATION.cff`].
 
 ## Referencias
 [1] M. C. Khoo, *Physiological Control Systems: Analysis, Simulation, and Estimation*, 2nd ed. Piscataway, New Jersey, USA: IEEE Press, 2018.
