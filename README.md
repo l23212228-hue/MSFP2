@@ -1,7 +1,6 @@
 # MSFP2
 Práctica 2: Modelado y control del sistema cardiovascular mediante el modelo Windkessel
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=l23212228-hue/MSFP2)
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=l23212228-hue/MSFP2)
 
 # Práctica 2: Modelado y control del sistema cardiovascular mediante el modelo Windkessel
 
@@ -56,7 +55,7 @@ Palabras clave: Circuito RLC; Control PID; Modelo Windkessel; Sistema cardiovasc
 3. Código de verificación en Python / Visual Studio Code [`.py`].
 4. Diagrama biológico del sistema cardiovascular [`.png` / `.pdf`].
 5. Capturas y tablas con los parámetros de sintonización de los controladores PID.
-6. Figuras comparativas de lazo abierto y lazo cerrado en MATLAB y Python [formatos `.pdf` y `.png`].
+6. Figuras comparativas de lazo abierto y lazo cerrado en MATLAB y Python [formatos `.pdf`].
 7. Archivo de citación bibliográfica [`CITATION.cff`].
 
 ## Referencias
