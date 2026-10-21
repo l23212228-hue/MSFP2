@@ -56,7 +56,8 @@ Palabras clave: Circuito RLC; Control PID; Modelo Windkessel; Sistema cardiovasc
 4. Diagrama biológico del sistema cardiovascular [`.png` / `.pdf`].
 5. Capturas y tablas con los parámetros de sintonización de los controladores PID.
 6. Figuras comparativas de lazo abierto y lazo cerrado en MATLAB y Python [formatos `.pdf`].
-7. Archivo de citación bibliográfica [`CITATION.cff`].
+7. Diagrama en Biorender
+8. Archivo de citación bibliográfica [`CITATION.cff`].
 
 ## Referencias
 [1] M. C. Khoo, *Physiological Control Systems: Analysis, Simulation, and Estimation*, 2nd ed. Piscataway, New Jersey, USA: IEEE Press, 2018.
